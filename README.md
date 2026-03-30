@@ -1,1 +1,0 @@
-# moj_prvy_backend
